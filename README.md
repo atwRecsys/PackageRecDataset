@@ -18,9 +18,9 @@ FILES SUMMARY
 1. itemReferences.csv comes along with 2,000 rows consist of three attributes: ASIN, itemID, and clothesType. For top items clothesType = 1 (1,400 rows), meanwhile for bottoms clothesType = 2 (600 rows).
 2. items.csv comes along with 2,000 rows of itemID.
 3. user.csv comes along with 200 rows of anonymous userID.
-4. training_package_0*.csv comes along with 4,500 rows consist of four attributes: userID, topID, bottomID, and package rating ranged [1..5].
-5. testing_package_0*.csv comes along with 1,500 rows consist of four attributes: userID, topID, bottomID, and package rating ranged [1..5].
-6. training_individual_0*.csv comes along with 9,000 rows cinsist of four attributes: userID, itemID, individual rating ranged [1..5], and clothesType.
+4. training_individual_0*.csv comes along with 9,000 rows cinsist of four attributes: userID, itemID, individual rating ranged [1..5], and clothesType.
+5. training_package_0*.csv comes along with 4,500 rows consist of four attributes: userID, topID, bottomID, and package rating ranged [1..5].
+6. testing_package_0*.csv comes along with 1,500 rows consist of four attributes: userID, topID, bottomID, and package rating ranged [1..5].
 
 CITATION
 ============================================================
