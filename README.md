@@ -13,9 +13,12 @@ From our participants, we obtained 12,000 individual ratings and 6,000 package r
 
 To cover all these possibilities, we adopted the following methodology. First, we used 4-fold crossvalidation by randomly splitting the individual ratings into four parts. We rotated and used 3 parts as the training set and one for testing. Then in each fold we used only 25% of package ratings as the training set, and the remaining 75% package ratings as the test set. These mechanisms for holding  back data to make package predictions ensure that all possibilities are covered in a realistic manner.
 
-SUMMARY
+FILES SUMMARY
 ============================================================
 
 CITATION
 ============================================================
-Please cite one or both of the following if you use the data in any way:
+Please cite the following paper if you use the data in any way:
+
+Matrix Factorization for Package Recommendations
+A. Wibowo et al., ComplexRec 2017, August 27, 2017, Como, Italy.
